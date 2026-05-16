@@ -2,10 +2,6 @@
 
 > **English** | [中文](README.zh.md)
 
-> Undergraduate thesis project, School of Computer and Information Technology, Beijing Jiaotong University (June 2015)
-> Author: Guo Xun (Student ID: 11281004)
-> Supervisor: Prof. Liu Yi
-
 A C++ / Qt implementation of the Black-Scholes option pricing model and implied-volatility-based arbitrage strategies. Uses Hang Seng Index daily closing prices from 1986-12-31 to 2013-06-28 as the sample dataset, with volatility estimated via Eviews + GARCH(1,1). The Qt GUI supports option pricing, implied volatility inversion, and arbitrage portfolio P&L evaluation.
 
 ---
